@@ -1,70 +1,69 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "Graphiti",
-        "repositoryURL": "https://github.com/GraphQLSwift/Graphiti.git",
-        "state": {
-          "branch": null,
-          "revision": "ed06f0608a72176fd572763660e7492bfb53a419",
-          "version": "1.15.1"
-        }
-      },
-      {
-        "package": "GraphQL",
-        "repositoryURL": "https://github.com/GraphQLSwift/GraphQL.git",
-        "state": {
-          "branch": null,
-          "revision": "87649dbc3cdab0be0256c86235f2aec22ec1bfc1",
-          "version": "2.10.0"
-        }
-      },
-      {
-        "package": "RxSwift",
-        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
-        "state": {
-          "branch": null,
-          "revision": "b06a8c8596e4c3e8e7788e08e720e3248563ce6a",
-          "version": "6.7.1"
-        }
-      },
-      {
-        "package": "swift-atomics",
-        "repositoryURL": "https://github.com/apple/swift-atomics.git",
-        "state": {
-          "branch": null,
-          "revision": "cd142fd2f64be2100422d658e7411e39489da985",
-          "version": "1.2.0"
-        }
-      },
-      {
-        "package": "swift-collections",
-        "repositoryURL": "https://github.com/apple/swift-collections",
-        "state": {
-          "branch": null,
-          "revision": "9bf03ff58ce34478e66aaee630e491823326fd06",
-          "version": "1.1.3"
-        }
-      },
-      {
-        "package": "swift-nio",
-        "repositoryURL": "https://github.com/apple/swift-nio.git",
-        "state": {
-          "branch": null,
-          "revision": "9746cf80e29edfef2a39924a66731249223f42a3",
-          "version": "2.72.0"
-        }
-      },
-      {
-        "package": "swift-system",
-        "repositoryURL": "https://github.com/apple/swift-system.git",
-        "state": {
-          "branch": null,
-          "revision": "d2ba781702a1d8285419c15ee62fd734a9437ff5",
-          "version": "1.3.2"
-        }
+  "originHash" : "d81369b07c465929b0b3fd13016e5c0961589d560ac2f7fad59b6a70316016d4",
+  "pins" : [
+    {
+      "identity" : "graphiti",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GraphQLSwift/Graphiti.git",
+      "state" : {
+        "revision" : "ed06f0608a72176fd572763660e7492bfb53a419",
+        "version" : "1.15.1"
       }
-    ]
-  },
-  "version": 1
+    },
+    {
+      "identity" : "graphql",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GraphQLSwift/GraphQL.git",
+      "state" : {
+        "revision" : "87649dbc3cdab0be0256c86235f2aec22ec1bfc1",
+        "version" : "2.10.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/clackary/RxSwift.git",
+      "state" : {
+        "revision" : "b5a0ba4d488ded8813cde51c7d49d7ad6cb56372",
+        "version" : "6.8.1-pl.1"
+      }
+    },
+    {
+      "identity" : "swift-atomics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-atomics.git",
+      "state" : {
+        "revision" : "cd142fd2f64be2100422d658e7411e39489da985",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections",
+      "state" : {
+        "revision" : "9bf03ff58ce34478e66aaee630e491823326fd06",
+        "version" : "1.1.3"
+      }
+    },
+    {
+      "identity" : "swift-nio",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-nio.git",
+      "state" : {
+        "revision" : "9746cf80e29edfef2a39924a66731249223f42a3",
+        "version" : "2.72.0"
+      }
+    },
+    {
+      "identity" : "swift-system",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-system.git",
+      "state" : {
+        "revision" : "d2ba781702a1d8285419c15ee62fd734a9437ff5",
+        "version" : "1.3.2"
+      }
+    }
+  ],
+  "version" : 3
 }
